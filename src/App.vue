@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Loading Tec. 欢迎来到锣鼎科技！"/>
+  <HelloWorld msg="Welcome to Loading Tec. 欢迎来到锣鼎科技！--2023"/>
 </template>
 
 <script>
